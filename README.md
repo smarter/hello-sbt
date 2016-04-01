@@ -1,5 +1,7 @@
 ## Hello, sbt!
 
+Initial announcement with more information: https://groups.google.com/d/msg/scala-announce/S9IvxjEEfmY/vnEqg94GEQAJ
+
 This project demonstrates how to write a hello world in the sbt programming
 language. Even with such a simple example, the superiority of sbt over Scala is
 obvious: you do not need to wrap methods in `object` or `class`, this is much
